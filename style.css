@@ -1,0 +1,16 @@
+.col{
+	background-color: orange;
+	border: 2px solid blue;
+}
+
+.logo{
+	margin-right: 10px;
+}
+
+.navbar-brand{
+	padding-right: 0px;
+}
+
+.container{
+	width: 1000px;
+}
