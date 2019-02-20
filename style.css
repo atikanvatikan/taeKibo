@@ -10,7 +10,12 @@
 .navbar-brand{
 	padding-right: 0px;
 }
-
+/*
 .container{
-	width: 1000px;
+	margin-left: 100px;
+	margin-right: 100px;
+}*/
+
+.nav-item-text{
+	text-align: center;
 }
